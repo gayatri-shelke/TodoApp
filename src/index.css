@@ -1,0 +1,8 @@
+
+body{
+  background-image: url("/src/hill.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100;
+  background-size: cover;
+}
